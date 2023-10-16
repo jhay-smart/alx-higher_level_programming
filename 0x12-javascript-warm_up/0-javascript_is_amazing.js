@@ -3,5 +3,5 @@
  * This is my javascript first task
  * @myvar - this the container holding the variable
  */
-const myVar = 'JavScript is amazing';
+const myVar = 'JavaScript is amazing';
 console.log(myVar);
